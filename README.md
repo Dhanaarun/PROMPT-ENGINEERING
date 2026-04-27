@@ -58,6 +58,36 @@ Step 7: Finalize and Export
 
 
 # Output
+Foundational concepts of Generative AI.
+"A high-quality, professional technical infographic titled 'Foundational Concepts of Generative AI' on a dark, sleek slate-blue background. The layout uses a central glowing node with branching arrows leading to distinct modular boxes. Each box features clean vector icons and simplified neural network diagrams. Pillar 1: Data Inputs (text, images, code). Pillar 2: Deep Learning showing pattern recognition and a latent space map. Pillar 3: Core Architectures showcasing Transformers with self-attention connections, GANs with a generator and discriminator feedback loop, and Diffusion Models showing a step-by-step denoising process from static to a clear cloud image. The bottom section shows 'Generative Outputs' featuring snippets of Python code, a landscape photo, a block of marketing text, and a musical score. Modern, futuristic aesthetic with glowing accents in teal, orange, and soft purple. Hyper-detailed, 8k resolution, flat vector design style."
+
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/090c5734-f402-4070-908f-16c97951251b" />
+
+
+Generative AI architectures.
+
+ "A sleek, professional, dark-gradient blue infographic titled 'COMPARATIVE GENERATIVE AI ARCHITECTURES.' The layout uses a central horizontal axis with glowing data-lines connecting three distinct modular comparison boxes. Box 1: 'TRANSFORMERS (Contextual Processing),' showing a detailed block diagram of the SELF-ATTENTION MECHANISM, with nodes connecting all words in the sentence 'THE CAT SAT... because IT was tired.' Arrows show weights. Box 2: 'GANs (Adversarial Loop),' visualizing the dynamic battle between a stylized robotic GENERATOR (drawing cats from noise) and a human DISCRIMINATOR (magnifying glass, judging 'REAL' vs 'FAKE'). Box 3: 'DIFFUSION MODELS (Iterative Denoising),' a visual sequence of 5 distinct images starting from PURE NOISE (static) and progressively refining, step-by-step, until a perfect high-res landscape image emerges. Modern, futuristic vector illustration style, vibrant neon-teal and orange accents, glowing connections, highly detailed and symmetrical layout, 8k resolution." generate image
+ 
+ <img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/30f999ad-c29d-4ad5-9678-27ca8b8e35fc" />
+
+
+
+Generative AI applications.
+
+A professional, wide-aspect technical infographic titled 'GENERATIVE AI ARCHITECTURES & APPLICATIONS' on a dark, futuristic slate-blue background with subtle hexagonal grid patterns. The image is split into two halves connected by glowing, fiber-optic data streams in teal, orange, and purple. Left side: 'LEADING ARCHITECTURES' containing three vertical modular boxes for Transformers (showing a neural brain and text tokens), Diffusion Models (showing a 3-step noise-to-image sequence), and GANs (showing a generator-discriminator feedback loop). Right side: 'KEY APPLICATIONS' featuring four modular boxes with clean vector icons for Agentic Workflows (robot icons), Healthcare (DNA and brain scans), Multimodal Creation (video and audio icons), and Software Engineering (a developer with an AI coding assistant). High-tech aesthetic, vibrant neon accents, clean sans-serif typography, flat vector illustration style, 8k resolution, hyper-detailed and symmetrical."
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/07870186-a214-4ad4-b962-098c84cade60" />
+
+Generative AI impact of scaling in LLMs.
+
+A futuristic flow diagram on a smooth dark gradient background, illustrating a multi-step workflow. Left side: "RAW SCALED MODEL" (a giant, glowing, somewhat chaotic spherical brain). An arrow leads to step 1: "INSTRUCTION TUNING" (show icons of question marks being organized into command icons). An arrow leads to step 2: "HUMAN ALIGNMENT (RLHF)" (A stylized human figure giving thumbs up/thumbs down to diverse AI outputs). Right side output: "AUTONOMOUS AI AGENT" (A sleek, controlled, multi-functional robot figure labeled "HELPFUL, SAFE, AGENTIC"). Integrated glowing lines connect all stages. Professional technical art, 8k resolution. 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/7671f9b9-902a-4a72-9a0c-157a1a1999b6" />
+
+
+ Explain about LLM and how it is build
+ 
+"A high-tech, 3D isometric infographic titled 'THE LLM CONSTRUCTION PIPELINE'. The layout flows from left to right on a dark charcoal background with neon-blue data tracks. Step 1: 'PRE-TRAINING' showing a massive digital library being vacuumed into a glowing neural sphere. Step 2: 'INSTRUCTION TUNING' showing a human silhouette refining a chat interface with glowing checkmarks. Step 3: 'ALIGNMENT & REASONING' showing a complex brain-like network with 'Chain-of-Thought' bubbles solving a math equation. The final output on the right is a sleek, multi-armed robotic AI Agent labeled 'HELPFUL, SAFE, & AUTONOMOUS'. Professional technical art, cinematic lighting, 8k resolution, vibrant teal and gold accents." 
+<img width="1024" height="559" alt="image" src="https://github.com/user-attachments/assets/75f6d5b3-2240-4c37-96c8-7c6ee06dddc0" />
 
 
 # Result
+Generating comprehensive report on the fundamentals of generative AI and Large Language Models (LLMs) is successfully executed.
